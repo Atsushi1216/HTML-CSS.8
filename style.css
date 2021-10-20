@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+.main-visual {
+  text-align: left;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.main-visual:nth-child(1) {
+  background-color: #6c6b6b;
+}
+
+.main-visual:nth-child(2) {
+  background-color: white;
+}
+
+.main-visual:nth-child(3) {
+  background-color: #6c6b6b;
+}
+
+.main-visual:nth-child(4) {
+  background-color: white;
+}
+
+.main-visual:nth-child(5) {
+  background-color: #6c6b6b;
+}
+
+.main-visual:nth-child(6) {
+  background-color: white;
+}
+
+.main-visual:nth-child(7) {
+  background-color: #6c6b6b;
+}
+
+.instagram-box {
+  width: 30%;
+  height: 200px;
+  padding-top: 50px;
+  margin-bottom: 40px;
+}
+
+.instagram-box:nth-child(odd) {
+  margin: 5%;
+}
+
+.instagram-box:nth-child(1) {
+  background-color: orange;
+}
+
+.instagram-box:nth-child(2) {
+  background-color: yellow;
+}
+
+.instagram-box:nth-child(3) {
+  background-color: yellow;
+}
+
+.instagram-box:nth-child(4) {
+  background-color: yellow;
+}
+
+.instagram-box:nth-child(5) {
+  background-color: orange;
+}
+
+.instagram-box:nth-child(6) {
+  background-color: yellow;
+}
+
+.instagram-box:nth-child(7) {
+  background-color: yellow;
+}
+
+.instagram-box:nth-child(8) {
+  background-color: yellow;
+}
+
+.instagram-box:nth-child(9) {
+  background-color: orange;
+}
